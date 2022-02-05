@@ -6,6 +6,8 @@ Calendar was created to allow a user to save events for each hour of the day. Im
 
 # Usage/Screenshot
 
+<img width="1419" alt="scheduler" src="https://user-images.githubusercontent.com/95050386/152659620-df15eff7-3af0-4e57-860f-70708e4159a7.png">
+
 # Resources
 
 1. CANVAS UM - Module 5
